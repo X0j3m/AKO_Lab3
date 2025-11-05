@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <MASM Include="prog.asm">
+    <MASM Include="prog2.asm">
       <Filter>Pliki źródłowe</Filter>
     </MASM>
   </ItemGroup>

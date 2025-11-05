@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Workspace\\assembly\\warun\\lab3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68890DB0-CAD1-4137-9B45-BD89B947F2AE}|lab3\\lab3.vcxproj|D:\\Workspace\\assembly\\warun\\lab3\\lab3\\prog.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{68890DB0-CAD1-4137-9B45-BD89B947F2AE}|lab3\\lab3.vcxproj|solutionrelative:lab3\\prog.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{68890DB0-CAD1-4137-9B45-BD89B947F2AE}|lab3\\lab3.vcxproj|D:\\Workspace\\assembly\\warun\\lab3\\lab3\\prog2.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{68890DB0-CAD1-4137-9B45-BD89B947F2AE}|lab3\\lab3.vcxproj|solutionrelative:lab3\\prog2.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "prog.asm",
-              "DocumentMoniker": "D:\\Workspace\\assembly\\warun\\lab3\\lab3\\prog.asm",
-              "RelativeDocumentMoniker": "lab3\\prog.asm",
-              "ToolTip": "D:\\Workspace\\assembly\\warun\\lab3\\lab3\\prog.asm",
-              "RelativeToolTip": "lab3\\prog.asm",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Title": "prog2.asm",
+              "DocumentMoniker": "D:\\Workspace\\assembly\\warun\\lab3\\lab3\\prog2.asm",
+              "RelativeDocumentMoniker": "lab3\\prog2.asm",
+              "ToolTip": "D:\\Workspace\\assembly\\warun\\lab3\\lab3\\prog2.asm",
+              "RelativeToolTip": "lab3\\prog2.asm",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-31T17:17:15.87Z",
+              "WhenOpened": "2025-11-05T19:31:44.897Z",
               "EditorCaption": ""
             }
           ]
